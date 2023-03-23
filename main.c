@@ -23,7 +23,7 @@ int main(){
         "FERICIRE",
         "ARDUINO",
         "PROGRAMARE",
-        "PORTOCAL"
+        "PORTOCALEE"
     };
 
     strcpy(cuvantAles, listaCuvinte[rand()%4] );
